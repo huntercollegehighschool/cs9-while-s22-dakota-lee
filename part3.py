@@ -25,3 +25,5 @@ while num != 0:
 
 total = total/times
 print("Average:", total)
+
+#done
