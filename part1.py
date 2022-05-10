@@ -19,3 +19,5 @@ while numbertosquare ** 2 <= num:
     numsquares = numsquares + 1
     
 print("Number of squares less than or equal to", str(num)+':', numsquares)
+
+#done
